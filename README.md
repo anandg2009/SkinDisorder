@@ -35,3 +35,4 @@
 
 These models offer valuable tools for early identification and diagnosis of skin diseases, improving healthcare outcomes. The choice of a model can be adjusted based on specific needs and prevalent skin conditions in the target population.
 
+![image](https://i.pinimg.com/originals/4e/52/91/4e5291d637ab703484ef35b0fe5a6b24.gif)
