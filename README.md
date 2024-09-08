@@ -1,4 +1,4 @@
-# SkinDisorder
+# SkinDisorder : Detecting the type of SkinDisorder
 
 🔸Project Overview:
  In This Project focuses on comparing different machine learning classifiers for predicting skin diseases. The models evaluated include:
